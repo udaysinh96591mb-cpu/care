@@ -24,7 +24,7 @@ export default function About() {
             className="relative h-[600px] w-full rounded-[2.5rem] overflow-hidden"
           >
             <Image 
-              src="https://picsum.photos/seed/dentalabout/800/1000" 
+              src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=800&q=80" 
               alt="Dental Clinic Interior" 
               fill 
               className="object-cover"
@@ -40,7 +40,7 @@ export default function About() {
             <span className="text-rose-500 font-bold tracking-wider uppercase text-sm mb-4 block">About Our Clinic</span>
             <h2 className="text-3xl md:text-5xl font-display font-bold text-gray-900 mb-6">World-Class Dental Care in Ahmedabad</h2>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              At MY CARE DENTAL HOSPITAL & IMPLANT CENTRE, we are committed to providing the highest quality dental care in a relaxing and safe environment. Our state-of-the-art facility is equipped with advanced technology to ensure precise diagnostics and effective treatments.
+              At Shreeji Dental Clinic, we are committed to providing the highest quality dental care in a relaxing and safe environment. Our state-of-the-art facility is equipped with advanced technology to ensure precise diagnostics and effective treatments.
             </p>
 
             <div className="space-y-4 mb-10">

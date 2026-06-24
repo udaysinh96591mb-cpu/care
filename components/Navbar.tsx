@@ -25,8 +25,8 @@ export default function Navbar() {
               <img src="https://picsum.photos/seed/girlsmile/100/100" alt="Girl Smile Logo" className="w-full h-full object-cover" />
             </div>
             <div>
-              <h1 className="font-display font-bold text-xl tracking-tight text-gray-900 leading-none">MY CARE</h1>
-              <span className="text-[10px] uppercase tracking-widest text-rose-500 font-bold">Dental Hospital</span>
+              <h1 className="font-display font-bold text-xl tracking-tight text-gray-900 leading-none">SHREEJI</h1>
+              <span className="text-[10px] uppercase tracking-widest text-rose-500 font-bold">Dental Clinic</span>
             </div>
           </div>
 

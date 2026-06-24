@@ -17,8 +17,8 @@ export default function DoctorProfile() {
               className="relative h-[500px] w-full rounded-[2.5rem] overflow-hidden shadow-xl"
             >
               <Image 
-                src="https://picsum.photos/seed/doctor/800/1000" 
-                alt="Chief Dental Surgeon" 
+                src="https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=800&q=80" 
+                alt="Dr. Jessica - Chief Dental Surgeon" 
                 fill 
                 className="object-cover"
                 referrerPolicy="no-referrer"
@@ -31,8 +31,8 @@ export default function DoctorProfile() {
               viewport={{ once: true }}
             >
               <span className="text-rose-500 font-bold tracking-wider uppercase text-sm mb-2 block">Meet Our Expert</span>
-              <h2 className="text-3xl md:text-5xl font-display font-bold text-gray-900 mb-2">Chief Dental Surgeon</h2>
-              <p className="text-xl text-gray-500 mb-8">Implantologist & Cosmetic Dentist</p>
+              <h2 className="text-3xl md:text-5xl font-display font-bold text-gray-900 mb-2">Dr. Jessica</h2>
+              <p className="text-xl text-gray-500 mb-8">Chief Dental Surgeon & Implantologist</p>
 
               <div className="space-y-6 mb-8">
                 <div className="flex items-start gap-4">

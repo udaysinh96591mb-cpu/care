@@ -19,7 +19,7 @@ export default function Hero() {
           >
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-rose-100/50 text-rose-700 font-medium text-sm mb-6 border border-rose-200/50 backdrop-blur-sm">
               <Star className="w-4 h-4 fill-rose-500 text-rose-500" />
-              <span>4.9 Star Rated Clinic in Ahmedabad</span>
+              <span>5.0 Star Rated Clinic in Ahmedabad</span>
             </div>
             
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-display font-bold text-gray-900 leading-[1.1] mb-6">
@@ -36,7 +36,7 @@ export default function Hero() {
                 Book Appointment
                 <ArrowRight className="w-5 h-5" />
               </a>
-              <a href="tel:+919099901093" className="inline-flex justify-center items-center gap-2 bg-white text-gray-900 border border-stone-200 px-8 py-4 rounded-full font-medium hover:bg-stone-50 transition shadow-sm">
+              <a href="tel:+917878505140" className="inline-flex justify-center items-center gap-2 bg-white text-gray-900 border border-stone-200 px-8 py-4 rounded-full font-medium hover:bg-stone-50 transition shadow-sm">
                 <Phone className="w-5 h-5 text-rose-500" />
                 Call Now
               </a>
@@ -57,8 +57,8 @@ export default function Hero() {
           >
             <div className="relative h-[500px] w-full rounded-[2.5rem] overflow-hidden shadow-2xl border-8 border-white">
               <Image 
-                src="https://lh3.googleusercontent.com/gps-cs-s/APNQkAFu-BxHmmY-M9PcwZPJyYENu0ua-N94ahPXNCQnpydiP9Yp3x-9_SBep8O3xNospLBLPYaAXSJqpCc51iZ-TFcOg-AEkDGEv6nOwuuwAxEt2yosWm1oUnzi24JFH3SHw4XX3HA=w1000-h800-k-no" 
-                alt="My Care Dental Hospital Clinic" 
+                src="https://lh3.googleusercontent.com/gps-cs-s/APNQkAFC8JiISuHfPjXMVxnZynrxZQu9YbYgrVqabDhPbROx7xzmJ23rPv7YhQ_etDTTrgp8_i5tWjyV2e3-mzF7Xb8CGI3TCYzf3iJxNO0gy1aC3IgguBJ_yG72ccp05TkcWN6YXapcxYuWFkpj=w1000-h800-k-no" 
+                alt="Shreeji Dental Clinic" 
                 fill 
                 className="object-cover"
                 referrerPolicy="no-referrer"
@@ -85,7 +85,7 @@ export default function Hero() {
                   <div className="flex gap-1 mb-1">
                     {[1,2,3,4,5].map(i => <Star key={i} className="w-4 h-4 fill-amber-400 text-amber-400" />)}
                   </div>
-                  <p className="text-sm font-bold text-gray-900">119+ Happy Patients</p>
+                  <p className="text-sm font-bold text-gray-900">496+ Happy Patients</p>
                 </div>
               </div>
             </motion.div>

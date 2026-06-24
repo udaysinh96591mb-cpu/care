@@ -66,7 +66,7 @@ export default function AppointmentForm() {
                   <svg className="w-10 h-10 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
                 </div>
                 <h3 className="text-2xl font-display font-bold text-gray-900 mb-2">Request Received!</h3>
-                <p className="text-gray-600">Thank you for booking with My Care Dental Hospital. We will contact you shortly to confirm your slot.</p>
+                <p className="text-gray-600">Thank you for booking with Shreeji Dental Clinic. We will contact you shortly to confirm your slot.</p>
               </div>
             ) : (
               <form onSubmit={handleSubmit} className="space-y-6">
@@ -133,7 +133,7 @@ export default function AppointmentForm() {
             <div>
               <h3 className="text-xl font-display font-bold text-gray-900 mb-2">Emergency Cases</h3>
               <p className="text-gray-600 mb-4 text-sm">We handle dental emergencies with priority. If you have severe pain or injury, call us immediately.</p>
-              <a href="tel:+919099901093" className="text-rose-600 font-bold hover:underline text-lg">+91 90999 01093</a>
+              <a href="tel:+917878505140" className="text-rose-600 font-bold hover:underline text-lg">078785 05140</a>
             </div>
           </motion.div>
 

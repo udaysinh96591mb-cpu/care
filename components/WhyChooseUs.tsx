@@ -4,7 +4,7 @@ import { motion } from 'motion/react';
 import { Star, Shield, Users, CreditCard, Coffee, Heart, Settings, Clock } from 'lucide-react';
 
 const reasons = [
-  { title: "4.9★ Patient Satisfaction", icon: <Star className="w-6 h-6" /> },
+  { title: "5.0★ Patient Satisfaction", icon: <Star className="w-6 h-6" /> },
   { title: "Advanced Dental Equipment", icon: <Settings className="w-6 h-6" /> },
   { title: "Experienced Dental Team", icon: <Users className="w-6 h-6" /> },
   { title: "Affordable Treatment Plans", icon: <CreditCard className="w-6 h-6" /> },

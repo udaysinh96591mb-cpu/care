@@ -12,8 +12,8 @@ export default function Footer() {
                 <img src="https://picsum.photos/seed/girlsmile/100/100" alt="Girl Smile Logo" className="w-full h-full object-cover" />
               </div>
               <div>
-                <h1 className="font-display font-bold text-xl tracking-tight text-white leading-none">MY CARE</h1>
-                <span className="text-[10px] uppercase tracking-widest text-rose-500 font-bold">Dental Hospital</span>
+                <h1 className="font-display font-bold text-xl tracking-tight text-white leading-none">SHREEJI</h1>
+                <span className="text-[10px] uppercase tracking-widest text-rose-500 font-bold">Dental Clinic</span>
               </div>
             </div>
             <p className="text-gray-400 max-w-sm mb-6">
@@ -45,7 +45,7 @@ export default function Footer() {
         </div>
 
         <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-500">
-          <p>&copy; {new Date().getFullYear()} My Care Dental Hospital. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Shreeji Dental Clinic. All rights reserved.</p>
           <div className="flex items-center gap-2">
             <span>Powered by AI Studio</span>
           </div>

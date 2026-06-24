@@ -4,10 +4,10 @@ import { motion } from 'motion/react';
 import Image from 'next/image';
 
 const galleryItems = [
-  { title: "Teeth Whitening", img: "https://picsum.photos/seed/teeth1/600/400" },
-  { title: "Dental Implants", img: "https://picsum.photos/seed/teeth2/600/400" },
-  { title: "Smile Designing", img: "https://picsum.photos/seed/teeth3/600/400" },
-  { title: "Ceramic Crowns", img: "https://picsum.photos/seed/teeth4/600/400" },
+  { title: "Teeth Whitening", img: "https://images.unsplash.com/photo-1590664095641-7fa05f689813?auto=format&fit=crop&w=600&q=80" },
+  { title: "Dental Implants", img: "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=600&q=80" },
+  { title: "Smile Designing", img: "https://images.unsplash.com/photo-1534015099307-e547247a3297?auto=format&fit=crop&w=600&q=80" },
+  { title: "Ceramic Crowns", img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=600&q=80" },
 ];
 
 export default function Gallery() {

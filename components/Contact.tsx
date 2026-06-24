@@ -20,10 +20,9 @@ export default function Contact() {
                 <div>
                   <h4 className="font-bold text-gray-900 mb-1">Clinic Address</h4>
                   <p className="text-gray-600 leading-relaxed">
-                    313, Ground Floor, Navtad Pole Road Side,<br/>
-                    Opp. Moti Hamam Pole, Near Gheekanta Judicial Court,<br/>
-                    Old Sandes Press Road, Gheekanta,<br/>
-                    Ahmedabad, Gujarat – 380001
+                    107, 1st floor, Sukh Santhi Complex,<br/>
+                    Pankaj Society, Bhatta, Paldi,<br/>
+                    Ahmedabad, Gujarat 380007
                   </p>
                 </div>
               </div>
@@ -34,8 +33,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-900 mb-1">Phone Number</h4>
-                  <a href="tel:+919099901093" className="text-rose-600 font-bold hover:underline block">+91 90999 01093</a>
-                  <a href="https://wa.me/919099901093" target="_blank" rel="noreferrer" className="text-green-600 font-medium hover:underline text-sm inline-flex items-center gap-1 mt-1">
+                  <a href="tel:+917878505140" className="text-rose-600 font-bold hover:underline block">078785 05140</a>
+                  <a href="https://wa.me/917878505140" target="_blank" rel="noreferrer" className="text-green-600 font-medium hover:underline text-sm inline-flex items-center gap-1 mt-1">
                     <MessageSquare className="w-4 h-4" /> WhatsApp Us
                   </a>
                 </div>
@@ -57,7 +56,7 @@ export default function Contact() {
           <div className="h-full min-h-[400px] w-full bg-stone-200">
             {/* Google Maps Embed */}
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.939228308726!2d72.58371017500135!3d23.025983616203173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e85236bdc9d3d%3A0xcb792eee6b5f9889!2sMY%20CARE%20DENTAL%20HOSPITAL%20%26%20IMPLANT%20CENTRE!5e0!3m2!1sen!2sin!4v1716120000000!5m2!1sen!2sin" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.228221528416!2d72.55139041533502!3d23.01538358495679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e851c20bbdb0f%3A0xb35dd72950df6828!2sShreeji%20Dental%20Clinic!5e0!3m2!1sen!2sin!4v1716120000000!5m2!1sen!2sin" 
               width="100%" 
               height="100%" 
               style={{ border: 0 }} 

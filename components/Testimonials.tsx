@@ -32,7 +32,7 @@ export default function Testimonials() {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-stone-100 text-gray-900 font-bold mb-6">
             <Star className="w-5 h-5 fill-amber-400 text-amber-400" />
-            <span>4.9/5 Rating from 119+ Reviews on Google</span>
+            <span>5.0/5 Rating from 496+ Reviews on Google</span>
           </div>
           <h2 className="text-3xl md:text-5xl font-display font-bold text-gray-900 mb-6">What Our Patients Say</h2>
         </div>
